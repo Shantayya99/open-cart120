@@ -16,6 +16,7 @@ import pageObject.registerPage;
 
 public class AccountRegisterTest {
 
+	//Scripts
 	WebDriver driver;
         @BeforeClass
          public void setup() {
