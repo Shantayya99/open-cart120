@@ -10,4 +10,5 @@ public class basePage {
 		PageFactory.initElements(driver, this);
       
    }
+	//base page 
 }
